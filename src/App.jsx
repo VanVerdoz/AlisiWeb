@@ -318,7 +318,7 @@ export default function App() {
           
           <footer className="mt-12 md:mt-16 text-center pb-8">
             <p className="text-green-800 text-[10px] md:text-xs tracking-[0.4em] drop-shadow-[0_0_5px_rgba(34,197,94,0.5)]">ENCRYPTED CONNECTION ESTABLISHED</p>
-            <p className="text-green-900/50 text-[10px] md:text-xs mt-2">&copy; 2026 ALISANSI_UIN SUSKA RIAU</p>
+            <p className="text-green-900/50 text-[10px] md:text-xs mt-2">&copy; 2026 ALISI_UIN SUSKA RIAU</p>
           </footer>
         </div>
       </div>
