@@ -375,7 +375,7 @@ export default function App() {
                 {/* --- QR CODE SECTION (RESPONSIVE) --- */}
                 <div className="mt-6 md:mt-8 flex flex-col items-center justify-center border-t border-green-900/50 pt-6">
                     <p className="text-green-400 text-xs md:text-sm tracking-[0.2em] font-bold mb-4 drop-shadow-[0_0_5px_rgba(34,197,94,0.8)]">
-                        JOIN SECURE CHANNEL
+                        SLIHKAN JOIN GRUP WA RESMI LABSQUAD
                     </p>
                     
                     <div className="relative group cursor-pointer transition-transform hover:scale-105 active:scale-95">
@@ -389,7 +389,7 @@ export default function App() {
                         </div>
                     </div>
                     
-                    <p className="text-[9px] md:text-[10px] text-green-600 mt-3 font-mono">SCAN TO ACCESS LABSQUAD HQ</p>
+                    <p className="text-[9px] md:text-[10px] text-green-600 mt-3 font-mono">SCAN TO ACCESS LABSQUAD</p>
                 </div>
 
                 <div className="mt-6 md:mt-8 pt-6 border-t border-green-900/50 flex flex-col gap-4">
